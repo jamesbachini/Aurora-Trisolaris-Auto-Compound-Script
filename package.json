@@ -1,0 +1,33 @@
+{
+  "name": "aurora-trisolaris-auto-compound-script",
+  "version": "1.0.0",
+  "description": "Trisolaris auto compounding script to harvest and stake TRI rewards",
+  "main": "autocompound.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesbachini/Aurora-Trisolaris-Auto-Compound-Script.git"
+  },
+  "keywords": [
+    "autocompound",
+    "ethers.js",
+    "ethers",
+    "trisolaris",
+    "aurora",
+    "near",
+    "protocol"
+  ],
+  "author": "James Bachini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesbachini/Aurora-Trisolaris-Auto-Compound-Script/issues"
+  },
+  "homepage": "https://github.com/jamesbachini/Aurora-Trisolaris-Auto-Compound-Script#readme",
+  "dependencies": {
+    "dotenv": "^12.0.4",
+    "ethers": "^5.5.3"
+  }
+}
