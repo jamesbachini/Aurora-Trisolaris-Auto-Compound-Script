@@ -6,10 +6,7 @@ const provider = new ethers.providers.JsonRpcProvider(`https://mainnet.aurora.de
 const signer = new ethers.Wallet(process.env.auroraPrivateKey, provider);
 
 // Define ABI's
-const erc20Abi = [
-  "function balanceOf(address) view returns (uint)",
-  "function transfer(address to, uint amount)",
-];
+const erc20Abi = ["function balanceOf(address) view returns (uint)"];
 const poolAbi = ["function harvest(uint256 pid,address to)"];
 const stakingAbi = ["function enter(uint256 _triAmount)"];
 
