@@ -21,13 +21,13 @@ node autocompound.js
 
 ## Additional Information
 
-My Github Repo: https://github.com/jamesbachini
-Blockchain Developer Tutorials: https://jamesbachini.com
-YouTube Channel: https://www.youtube.com/c/JamesBachini
-Twitter: https://twitter.com/james_bachini
+- My Github Repo: https://github.com/jamesbachini
+- Blockchain Developer Tutorials: https://jamesbachini.com
+- YouTube Channel: https://www.youtube.com/c/JamesBachini
+- Twitter: https://twitter.com/james_bachini
 
-Trisolaris: https://www.trisolaris.io
-Docs: https://trisolaris-labs.github.io/docs/
-Contracts: https://github.com/trisolaris-labs/trisolaris_core/tree/main/contracts/rewards
+- Trisolaris: https://www.trisolaris.io
+- Docs: https://trisolaris-labs.github.io/docs/
+- Contracts: https://github.com/trisolaris-labs/trisolaris_core/tree/main/contracts/rewards
 
 Disclaimer: Note this is unaudited code for educational purposes and is not production ready for financial transactions
