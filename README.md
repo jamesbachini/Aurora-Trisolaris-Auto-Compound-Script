@@ -11,6 +11,8 @@ There is a full tutorial showing how to find these variables here:  https://jame
 Note that you'll need to edit the .env file to add credentials in the form of an Ethereum address and private key. You can use this script to generate one if required:
 https://github.com/jamesbachini/Ethers-Vanity-Address
 
+There are currently no transaction fees on Aurora which makes it a great playground but they will likely be introduced at some point in which case you may need some ETH in your wallet. The wallet address also needs to be the same address that deposited the LP tokens in to the farm. This script also assumes you've manually harvested and staked tokens once in metamask to approve the token spends.
+
 ```
 git clone https://github.com/jamesbachini/Aurora-Trisolaris-Auto-Compound-Script
 cd Aurora-Trisolaris-Auto-Compound-Script
